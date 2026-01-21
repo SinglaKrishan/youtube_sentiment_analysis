@@ -83,6 +83,7 @@ Inference
 Flask API serves predictions to frontend
 
 📂 Project Structure
+```
 youtube-sentiment-analysis/
 │
 ├── data/
@@ -94,6 +95,7 @@ youtube-sentiment-analysis/
 │       └── test_processed.csv
 │
 ├── src/
+│   ├── __init__.py
 │   ├── data/
 │   │   ├── data_ingestion.py
 │   │   └── data_preprocessing.py
@@ -129,6 +131,7 @@ youtube-sentiment-analysis/
 │
 ├── LICENSE
 └── README.md
+```
 
 📊 Model Artifacts
 
